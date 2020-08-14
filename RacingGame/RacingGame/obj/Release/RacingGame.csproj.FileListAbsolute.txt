@@ -1,0 +1,10 @@
+D:\KuzStu\OOP\RacingGame\RacingGame\RacingGame\bin\Release\RacingGame.exe.config
+D:\KuzStu\OOP\RacingGame\RacingGame\RacingGame\bin\Release\RacingGame.exe
+D:\KuzStu\OOP\RacingGame\RacingGame\RacingGame\bin\Release\RacingGame.pdb
+D:\KuzStu\OOP\RacingGame\RacingGame\RacingGame\obj\Release\RacingGame.csprojResolveAssemblyReference.cache
+D:\KuzStu\OOP\RacingGame\RacingGame\RacingGame\obj\Release\RacingGame.Form1.resources
+D:\KuzStu\OOP\RacingGame\RacingGame\RacingGame\obj\Release\RacingGame.Properties.Resources.resources
+D:\KuzStu\OOP\RacingGame\RacingGame\RacingGame\obj\Release\RacingGame.csproj.GenerateResource.cache
+D:\KuzStu\OOP\RacingGame\RacingGame\RacingGame\obj\Release\RacingGame.csproj.CoreCompileInputs.cache
+D:\KuzStu\OOP\RacingGame\RacingGame\RacingGame\obj\Release\RacingGame.exe
+D:\KuzStu\OOP\RacingGame\RacingGame\RacingGame\obj\Release\RacingGame.pdb
